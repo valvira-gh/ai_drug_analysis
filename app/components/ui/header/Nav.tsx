@@ -1,4 +1,3 @@
-"use client";
 import NavLink from "../buttons/NavLink";
 
 const Nav: React.FC = () => {
